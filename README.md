@@ -1,8 +1,10 @@
-# Mi NoteBook 14 - Hackintosh (tested with macOS Monterey)
+# Mi NoteBook 14 Hackintosh - MicBook
 
-## DISCLAIMER
+### (Tested with macOS Monterey Version 12.7.5)
 
-- This README is an extremely simplified and cut-down version of the original by [Abhishek Olkha](https://github.com/itsabhishekolkha/), so I highly suggest you use the files here but follow the steps over at the [original repository.](https://github.com/itsabhishekolkha/Mi-notebook-14-Hackintosh)
+## Disclaimer
+
+- This README is an extremely simplified and cut-down version of the original by [Abhishek Olkha](https://github.com/itsabhishekolkha/), so I highly suggest you use the files here but follow the steps over at the [original repository](https://github.com/itsabhishekolkha/Mi-notebook-14-Hackintosh)'s README.
 - Not responsible for any issues or damages caused on your device.
 
 ## Introduction
