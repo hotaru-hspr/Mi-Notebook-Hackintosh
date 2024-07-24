@@ -1,2 +1,4 @@
-config.plist updated to OpenCore 0.7.1.
-Do note use this config.plist to any older version, beacuse it may cuse booting failure.
+24-07-2024
+
+config.plist updated to OpenCore 1.0.0.
+Do not use this config.plist with older versions, might result in failure to boot.
